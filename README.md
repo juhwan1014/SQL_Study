@@ -6,8 +6,8 @@ SELECT column_name FROM table_name
 
 
 ### DISTINCT
-SELECT DISTINCT column_name FROM table_name \n
-or \n
+SELECT DISTINCT column_name FROM table_name /n
+or /n
 SELECT DISTINCT (column_name) FROM table_name
 -> Combine the redundant components into one
 
