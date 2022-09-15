@@ -6,7 +6,9 @@ SELECT column_name FROM table_name
 
 
 ### DISTINCT
-SELECT DISTINCT column_name FROM table_name     or     SELECT DISTINCT (column_name) FROM table_name     
+SELECT DISTINCT column_name FROM table_name     
+or     
+SELECT DISTINCT (column_name) FROM table_name     
 -> Combine the redundant components into one
 
 
