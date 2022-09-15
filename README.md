@@ -27,6 +27,15 @@ Q. How many unique names are there in the table?
    
 
 ### WHERE
+SELECT column1,column2 FROM table WHERE conditions;    
 
+ * Comparison Operators
+ =, >, <, >=, <=, <>/!=  
+ 
+ * Logical Operators
+ AND / OR / NOT  
+ 
+ ex) SELECT name, choice FROM table WHERE name = 'David' AND choice = 'red'
+ 
 
 
