@@ -23,7 +23,7 @@ SELECT COUNT column_name FROM table_name
 Q. How many unique names are there in the table?     
 -> SELECT COUNT (DISTINCT column_name) FROM table_name     
     or      
-   SELECT COUNT (DISTINCT (column_name)) FROM table_name   
+      SELECT COUNT (DISTINCT (column_name)) FROM table_name   
    
 
 ### WHERE
